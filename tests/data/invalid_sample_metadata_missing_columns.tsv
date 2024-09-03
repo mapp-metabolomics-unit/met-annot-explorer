@@ -1,0 +1,8 @@
+mapp_sample_id	sample_id	sample_type	source_taxon	solvant	free_comment
+mapp_01_72_02	mapp_01_72_02	sample	Morinda citrifolia	MeOH	diluted
+mapp_01_72_04	mapp_01_72_04	sample	Morinda citrifolia	Heptane	diluted
+mapp_01_72_06	mapp_01_72_06	sample	Morinda citrifolia	DCM	diluted
+mapp_01_72_02_conc	mapp_01_72_02_conc	sample	Morinda citrifolia	MeOH	undiluted
+mapp_01_72_04_conc	mapp_01_72_04_conc	sample	Morinda citrifolia	Heptane	undiluted
+mapp_01_72_06_conc	mapp_01_72_06_conc	sample	Morinda citrifolia	DCM	undiluted
+mapp_01_72_bk	mapp_01_72_02	BK	ND	ND	ND
